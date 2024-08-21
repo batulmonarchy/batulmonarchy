@@ -89,7 +89,7 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
 <div>
   <img src="https://img.shields.io/badge/-Cisco%20CCNA-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google" />
-  <img src="https://img.shields.io/badge/-IBM-00FF00?&style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
+  <img src="https://img.shields.io/badge/-IBM-000000?&style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
   <img src="https://img.shields.io/badge/-Fortinet-EE4C2C?&style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
   <img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
   <img src="https://img.shields.io/badge/-Hewlett%20Packard%20(Aruba)-00CED1?&style=for-the-badge&logo=hewlett-packard&logoColor=white" alt="Hewlett Packard (Aruba)" />
