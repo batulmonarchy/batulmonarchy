@@ -95,8 +95,8 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
   <img src="https://img.shields.io/badge/-Hewlett%20Packard%20(Aruba)-00CED1?&style=for-the-badge&logo=hewlett-packard&logoColor=white" alt="Hewlett Packard (Aruba)" />
   <img src="https://img.shields.io/badge/-Juniper%20Networks-7B68EE?&style=for-the-badge&logo=juniper-networks&logoColor=white" alt="Juniper Networks" />
   <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-FF7F50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto Networks" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-EC%2DCouncil-B22222?&style=for-the-badge&logo=ec-council&logoColor=white" alt="EC-Council" />
+  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/-EC%2DCouncil%20(Certified)-C8102E?&style=for-the-badge&logo=ec-council&logoColor=white" alt="EC-Council" />
   <img src="https://img.shields.io/badge/-SkillFront-4682B4?&style=for-the-badge&logo=skillfront&logoColor=white" alt="SkillFront" />
   <img src="https://img.shields.io/badge/-OPSWAT-800080?&style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT" />
   <img src="https://img.shields.io/badge/-Maven%20Analytics-00BFFF?&style=for-the-badge&logo=maven-analytics&logoColor=white" alt="Maven Analytics" />
