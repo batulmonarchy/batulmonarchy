@@ -87,35 +87,19 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
 ## Certifications
 
 <div>
-  <img src="https://img.shields.io/badge/-CCNA%3A%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation-FF5733?&style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CCNA%3A%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-00C4CC?&style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Specialist%20Professional%20Certificate-00FF00?&style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fortinet%20Certified%20Cybersecurity%20Associate-EE4C2C?&style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Qualys%20Certified%20Specialist%3A%20EDR-DC143C?&style=for-the-badge&logo=qualys&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Qualys%20Certified%20Specialist%3A%20Policy%20Compliance-483D8B?&style=for-the-badge&logo=qualys&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Qualys%20Certified%20Specialist%3A%20VMDR-1E90FF?&style=for-the-badge&logo=qualys&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Aruba%20Network%20Security%20Essentials-00CED1?&style=for-the-badge&logo=hewlett-packard&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Aruba%20Network%20Automation%20Essentials-008000?&style=for-the-badge&logo=hewlett-packard&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ACSA%20Fast%20Track%3A%20Cisco%20to%20Aruba%20Switching-FFD700?&style=for-the-badge&logo=hewlett-packard&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JNCIA%2DCloud-7B68EE?&style=for-the-badge&logo=juniper-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JNCIA%2DJunos-FF4500?&style=for-the-badge&logo=juniper-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JNCIA%2DSEC-4682B4?&style=for-the-badge&logo=juniper-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Foundations%20of%20Security%20Operations%20Centre-FF7F50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Foundations%20of%20Cloud%20Security-FFD700?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Virtual%20Network%20Security%20Administrator-ADFF2F?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Secure%20Access%20Service%20Edge-00FA9A?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cloud%20NGFW%20Administrator-DC143C?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS%20Cloud%20Essentials-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS%20Networking%20Core-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architecture-00BFFF?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%20Defense%20Essentials-B22222?&style=for-the-badge&logo=ec-council&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Digital%20Forensics%20Essentials-FF8C00?&style=for-the-badge&logo=ec-council&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ethical%20Hacking%20Essentials-FF0000?&style=for-the-badge&logo=ec-council&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISO%2FIEC%2027001%20Information%20Security%20Associate-4682B4?&style=for-the-badge&logo=skillfront&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISO%209001%20Quality%20Management%20Systems%20Associate-4B0082?&style=for-the-badge&logo=skillfront&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Critical%20Infrastructure%20Protection-800080?&style=for-the-badge&logo=opswat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ChatGPT%20for%20Data%20Analytics-00BFFF?&style=for-the-badge&logo=maven-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco%20CCNA-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://img.shields.io/badge/-IBM-00FF00?&style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
+  <img src="https://img.shields.io/badge/-Fortinet-EE4C2C?&style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
+  <img src="https://img.shields.io/badge/-Hewlett%20Packard%20(Aruba)-00CED1?&style=for-the-badge&logo=hewlett-packard&logoColor=white" alt="Hewlett Packard (Aruba)" />
+  <img src="https://img.shields.io/badge/-Juniper%20Networks-7B68EE?&style=for-the-badge&logo=juniper-networks&logoColor=white" alt="Juniper Networks" />
+  <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-FF7F50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto Networks" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-EC%2DCouncil-B22222?&style=for-the-badge&logo=ec-council&logoColor=white" alt="EC-Council" />
+  <img src="https://img.shields.io/badge/-SkillFront-4682B4?&style=for-the-badge&logo=skillfront&logoColor=white" alt="SkillFront" />
+  <img src="https://img.shields.io/badge/-OPSWAT-800080?&style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT" />
+  <img src="https://img.shields.io/badge/-Maven%20Analytics-00BFFF?&style=for-the-badge&logo=maven-analytics&logoColor=white" alt="Maven Analytics" />
 </div>
 
 
