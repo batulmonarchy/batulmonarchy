@@ -9,10 +9,9 @@ Intrigued by the digital realm since childhood, I have evolved from a curious te
 
 I am actively pursuing an Associate role in but not limited to: Security, Development, Cloud, Systems, or Networking. I intend to deepen my skillset towards the roadmap of Security and Development to contribute collaborative solutions and protect modern digital society.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects
 
-| Skill                                         | Associated Project         |
+| Description                                   | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Elastic SIEM Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC Automation Homelab</a>|
@@ -21,7 +20,7 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
 | Redundant Wireless Network Design             | Wireless Mesh Network for Surveillance|
 | NULL | NULL|
 
-## Tools
+## Tools & Technologies Used
 
 ### Network
 <div>
@@ -85,27 +84,14 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
     <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
 </div>
 
-
 ## Certifications
 
 <div>
-  <img src="https://img.shields.io/badge/-Junior%20Cybersecurity%20Analyst-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-CCNA%3A%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation-FF5733?&style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-CCNA%3A%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-00C4CC?&style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%20Support%20and%20Security-4D4D4D?&style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%20Defense-800000?&style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Endpoint%20Security-8B008B?&style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cybersecurity%20Specialist%20Professional%20Certificate-00FF00?&style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Fortinet%20Certified%20Cybersecurity%20Associate-EE4C2C?&style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FortiGate%20Operations-800080?&style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Threat%20Landscape%20Essentials-FF4500?&style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Analyst%20Professional%20Certificate-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-68217A?&style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Secure%20Networking-DAA520?&style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Identity%20%26%20Access%20Management-008080?&style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Secure%20Computing%2C%20Storage%2C%20and%20Databases-4682B4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security%20Operations%20Management-FF6347?&style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qualys%20Certified%20Specialist%3A%20EDR-DC143C?&style=for-the-badge&logo=qualys&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qualys%20Certified%20Specialist%3A%20Policy%20Compliance-483D8B?&style=for-the-badge&logo=qualys&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qualys%20Certified%20Specialist%3A%20VMDR-1E90FF?&style=for-the-badge&logo=qualys&logoColor=white" />
@@ -133,6 +119,4 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
 </div>
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
