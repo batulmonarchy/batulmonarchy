@@ -13,12 +13,12 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
 
 | Description                                   | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Elastic SIEM Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC Automation Homelab</a>|
-| IT Administration and Attack Simulation       | Active Directory (IAM) Lab (Ongoing)|
-| Secure Network Design with Complete Protocols | Secure Company Network System - Packet Tracer|
-| Redundant Wireless Network Design             | Wireless Mesh Network for Surveillance|
-| NULL | NULL|
+| SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link">Elastic SIEM Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">SOC Automation Homelab</a>|
+| IT Administration, AD, and Attack Simulation  | Active Directory (IAM) Lab (Ongoing)|
+| Secure Network Design Simulation              | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Secure Company Network System|
+| Wireless Mesh Network Design Capstone         | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Wireless Mesh Network for Surveillance|
+| Router Flashing Enhanced Network Connectivity | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
 
 ## Tools & Technologies Used
 
@@ -61,7 +61,6 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
