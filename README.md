@@ -1,8 +1,5 @@
 # Hello, I'm Austin! 
 
-<a href="https://github.com/batulmonarchy">
-<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
 Feel free to reach out to me through the following platforms:
 
 - **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
