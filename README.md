@@ -9,6 +9,13 @@ Intrigued by the digital realm since childhood, I have evolved from a curious te
 
 Armed with the blend of academic excellence, constant curiosity, relevant certifications, projects, and sheer will, I am actively  I am actively pursuing an Associate role in but not limited to: Security, Development, Cloud, Systems, or Networking. I intend to deepen my skillset towards the roadmap of Security and Development to contribute collaborative solutions and protect modern digital society.
 
+## Resume & CV
+
+To view a detailed overview of my professional journey, you can access my resume and CV through the following links:
+
+- [**Resume**](https://drive.google.com/file/d/1cy_yv3wjwT24DATqg5TzlXO7j31gTJQn/view?usp=drive_link))  
+- [**CV**](https://your-cv-link.com)
+
 ## Projects
 
 | Description                                   | Associated Project         |
