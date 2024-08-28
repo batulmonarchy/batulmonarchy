@@ -15,7 +15,7 @@ Armed with the blend of academic excellence, constant curiosity, relevant certif
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link">Elastic SIEM Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">SOC Automation Homelab</a>|
-| IT Administration, AD, and Attack Simulation  | Active Directory (IAM) Lab (Ongoing)|
+| IT Administration, AD, and Attack Simulation  | Active Directory Hacking Lab (Ongoing)|
 | Secure Network Design Simulation              | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Secure Company Network System|
 | Wireless Mesh Network Design - Capstone       | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Wireless Mesh Network for Surveillance|
 | Router Flashing Enhanced Network Connectivity | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
