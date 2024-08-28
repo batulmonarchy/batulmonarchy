@@ -13,8 +13,8 @@ Armed with the blend of academic excellence, constant curiosity, relevant certif
 
 To view a detailed overview of my professional journey, you can access my resume and CV through the following links:
 
-- [**Resume**](https://drive.google.com/file/d/1cy_yv3wjwT24DATqg5TzlXO7j31gTJQn/view?usp=drive_link))  
-- [**CV**](https://your-cv-link.com)
+- [**MY RESUME**](https://drive.google.com/file/d/1cy_yv3wjwT24DATqg5TzlXO7j31gTJQn/view?usp=drive_link)
+- [**MY CURRICULUM VITAE**](https://your-cv-link.com)
 
 ## Projects
 
