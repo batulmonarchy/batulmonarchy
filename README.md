@@ -7,7 +7,7 @@ Intrigued by the digital realm since childhood, I have evolved from a curious te
 
 ## Objective
 
-I am actively pursuing an Associate role in but not limited to: Security, Development, Cloud, Systems, or Networking. I intend to deepen my skillset towards the roadmap of Security and Development to contribute collaborative solutions and protect modern digital society.
+Armed with the blend of academic excellence, constant curiosity, relevant certifications, projects, and sheer will, I am actively  I am actively pursuing an Associate role in but not limited to: Security, Development, Cloud, Systems, or Networking. I intend to deepen my skillset towards the roadmap of Security and Development to contribute collaborative solutions and protect modern digital society.
 
 ## Projects
 
@@ -17,8 +17,9 @@ I am actively pursuing an Associate role in but not limited to: Security, Develo
 | Security Automation with Shuffle SOAR         | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">SOC Automation Homelab</a>|
 | IT Administration, AD, and Attack Simulation  | Active Directory (IAM) Lab (Ongoing)|
 | Secure Network Design Simulation              | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Secure Company Network System|
-| Wireless Mesh Network Design Capstone         | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Wireless Mesh Network for Surveillance|
+| Wireless Mesh Network Design - Capstone       | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Wireless Mesh Network for Surveillance|
 | Router Flashing Enhanced Network Connectivity | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
+| XYZ Biotech Data Breach Industrial Espionage  | <a href="https://drive.google.com/file/d/1H_rzTwJ3_AQbPo1SQc06le8fJmuwCU5g/view?usp=drive_link">Data Breach Case Study|
 
 ## Tools & Technologies Used
 
