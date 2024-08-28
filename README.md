@@ -1,13 +1,12 @@
-# Hello, I'm Austin! You can reach me through the following platforms:
-
-<a href="https://www.linkedin.com/in/batulaustin">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+# Hello, I'm Austin! 
 
 <a href="https://github.com/batulmonarchy">
 <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<a href="mailto:batulaustin.work@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />batulaustin.work@gmail.com</a>
+Feel free to reach out to me through the following platforms:
+
+- **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
+- **LinkedIn:** [Austin Cheng](https://www.linkedin.com/in/batulaustin)
 
 ## INTRODUCTION
 
