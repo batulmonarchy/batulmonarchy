@@ -5,7 +5,7 @@ Feel free to reach out to me through the following platforms:
 - **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
 - **LinkedIn:** [Austin Cheng](https://www.linkedin.com/in/batulaustin)
 
-## INTRODUCTION
+## Introduction
 
 Intrigued by the digital realm since childhood, I have evolved from a curious tech enthusiast into a dedicated IT graduate. I see the industry as a dynamic landscape where continuous growth, staying up to date, vigilance against threats, and industry standards are crucial. 
 
