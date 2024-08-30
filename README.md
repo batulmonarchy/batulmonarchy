@@ -1,6 +1,6 @@
 # Hello, I'm Austin! 
 
-Feel free to reach out to me through the following platforms:
+Feel free to reach out or check to know more about me through the following platforms:
 
 - **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
 - **LinkedIn:** [Austin Cheng](https://www.linkedin.com/in/batulaustin)
