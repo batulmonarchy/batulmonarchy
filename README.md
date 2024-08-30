@@ -3,7 +3,7 @@
 Feel free to reach or check me out through the following platforms:
 
 - **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
-- **LinkedIn:** [Me!](https://www.linkedin.com/in/batulaustin)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/batulaustin)
 
 ## Introduction
 
