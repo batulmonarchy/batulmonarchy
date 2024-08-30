@@ -3,7 +3,7 @@
 Feel free to reach or check me out through the following platforms:
 
 - **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
-- **LinkedIn:** [Austin Cheng](https://www.linkedin.com/in/batulaustin)
+- **LinkedIn:** [Me!](https://www.linkedin.com/in/batulaustin)
 
 ## Introduction
 
