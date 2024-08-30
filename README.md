@@ -1,6 +1,6 @@
 # Hello, I'm Austin! 
 
-Feel free to reach out or check to know more about me through the following platforms:
+Feel free to reach or check me out through the following platforms:
 
 - **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
 - **LinkedIn:** [Austin Cheng](https://www.linkedin.com/in/batulaustin)
@@ -22,6 +22,8 @@ To view a detailed overview of my professional journey, you can access my resume
 
 ## Projects
 
+Here are my highlighted projects in which are documented step by step:
+
 | Description                                   | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link">Elastic SIEM Lab</a>|
@@ -33,6 +35,8 @@ To view a detailed overview of my professional journey, you can access my resume
 | IT Administration, AD, and Attack Simulation  | Active Directory Hacking Lab (Ongoing)|
 
 ## Tools & Technologies Used
+
+Here are known vendors, tools, and technologies I've been using throughout these projects:
 
 ### Network
 <div>
