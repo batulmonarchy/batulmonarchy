@@ -17,7 +17,7 @@ Armed with constant curiosity and sheer will, I am actively pursuing an Associat
 
 To view a detailed overview of my professional journey, you can access my resume and CV through the following links:
 
-- [**My Resume**](https://drive.google.com/file/d/1YTyQnnmlAyKD57TLy421XQX1hQhen0sS/view?usp=drive_link)
+- [**My Resume**](https://drive.google.com/file/d/1hgn6gJTZlutQS62b0eDHz0pqfv4kHBbT/view?usp=drive_link)
 - [**My Curriculum Vitae**](https://your-cv-link.com)
 
 ## Projects
