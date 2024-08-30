@@ -7,11 +7,11 @@ Feel free to reach out to me through the following platforms:
 
 ## Introduction
 
-Intrigued by the digital realm since childhood, I have evolved from a curious tech enthusiast into a dedicated IT graduate. I see the industry as a dynamic landscape where continuous growth, staying up to date, vigilance against threats, and industry standards are crucial. 
+Intrigued by the digital realm since childhood, I have evolved from a curious tech enthusiast into a dedicated IT graduate. I see the industry as a dynamic landscape where continuous growth and industry standards are crucial. 
 
 ## Objective
 
-Armed with the blend of academic excellence, constant curiosity, relevant certifications, projects, and sheer will, I am actively pursuing an Associate role in but not limited to: Security, Development, Cloud, Systems, or Networking. I intend to deepen my skillset towards the roadmap of Security and Development to contribute collaborative solutions and protect modern digital society.
+Armed with constant curiosity and sheer will, I am actively pursuing an Associate role in but not limited to: Security, Development, Cloud, Systems, or Networking. I intend to deepen my skillset towards the roadmap of Security and Development to contribute collaborative solutions and protect modern digital society.
 
 ## Resume & CV
 
