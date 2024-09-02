@@ -1,11 +1,9 @@
-# Hello, I'm Austin! 
+# What's up? I'm Austin, Welcome to my Github Portfolio 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com)
-
-
 
 ## Introduction
 
-Intrigued by the digital realm since childhood, I have evolved from a curious tech enthusiast into a dedicated IT graduate. I see the industry as a dynamic landscape where continuous growth and industry standards are crucial. 
+I'm a person that has a wide range of interests, but one in which struck me the most was the digital world. It all started back at 2006, it was just your average day then my uncle brought what was supposed to be a laptop. I was intrigued, it was interest and curiosity at first sight, it was as if I were struck in awe on how on earth can you interact and control the screen to your own accord? I thought screens during those times were just for viewing. Then he showed me this weird digital game that I instantly fell inlove with, you were a fish that had to eat smaller fish than you until you become the biggest of all fishes and finish the level, I got addicted and adapted rapidly in this amazing metal object with electricity. Fast forward here I am now a recent IT Graduate aspiring for an Associate Role in Networking/Security/Cloud/Systems. Additionally, I have deep appreciation for liberal arts ever since a young age, and I've continued to carry this up until present - it has gave me such a broad perspective not only in human experience, but also towards the implications and complexities of living in a digital society. 
 
 ## Resume & CV
 
