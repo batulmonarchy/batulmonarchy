@@ -2,14 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com)
 
 ## Introduction
-
-It all started back at 2006, my uncle introduced me to a laptop and a captivating game where you controlled a fish that grew by consuming smaller ones, This initial awe for interactive technology quickly evolved into a deep passion, my love for discovery, tinkering hardware, creating and solving problems grew exponentially. Fast forward, recently graduated with an IT Degree, I am now aspiring for an Associate Role in Networking, Security, Cloud, or Systems. Alongside my chosen profession, I have a lifelong appreciation for liberal arts, which has enriched my understanding of both human experience and the complexities of our digital society.
-
+It all started back at 2006, my uncle showed me a laptop for the first time and an interesting game where you controlled a fish that grew by consuming smaller ones, this initial awe for interactive technology quickly evolved into a deep passion where my love for discovery, tinkering hardware, creating and solving problems grew exponentially. Fast forward, recently graduated with an IT Degree, I am now aspiring for an Associate Role in Networking, Security, Cloud, or Systems. Alongside my chosen profession, I have a lifelong appreciation for liberal arts, which has enriched my understanding of both human experience and the complexities of our digital society.
 
 ## Resume & CV
-
 To view a detailed overview of my professional journey, you can access my resume and CV through the following links:
-
 - [**My Resume**](https://drive.google.com/file/d/1KxRLqlDq-I5FRXM8uYvX2i78fH0yNWox/view?usp=drive_link)
 - [**My Curriculum Vitae**](https://your-cv-link.com)
 
