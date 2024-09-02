@@ -53,10 +53,9 @@ Below is a comprehensive list of all my certifications, organized from core to s
 - **[Networking Academy: Endpoint Security](https://www.credly.com/badges/2b12ff8d-57eb-47bf-8a73-fa50fb21d50c/public_url)** Issued: May 2024
 - **[Networking Academy: Introduction to Cybersecurity](https://www.credly.com/badges/ba9aab2b-a706-4705-a12b-8b9d89ee5d2c/public_url)** Issued: May 2024
 
-## ISC2
-- **[ISC2 Candidate](https://www.credly.com/badges/e33c7634-ed0a-4ac7-8616-1dd477d8002e/public_url)*Issued: Feb 2024
 
-## IBM & ISC2
+## IBM & ISC2 (ONGOING)
+- **[ISC2 Candidate](https://www.credly.com/badges/e33c7634-ed0a-4ac7-8616-1dd477d8002e/public_url)* Issued: Feb 2024
 - **[IBM & ISC2 Cybersecurity Specialist Professional Certificate (ONGOING)]** Issued: Expected Oct 2024
 
 ## Fortinet
