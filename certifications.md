@@ -2,15 +2,22 @@
 
 Below is a comprehensive list of all my certifications, organized from core to supplementary, with adherence to relevance and industry standards.
 
----
 
-## Cisco
+## CORE CERTIFICATIONS
 - **[CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/421e0dee-b5ce-4e74-abfa-284c42938a40/public_url)**  
   Issued: Apr 2023
 - **[CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/dc0e8d15-d18a-476b-9814-da20771cf8dc/public_url)**  
   Issued: Mar 2023
 - **[Junior Cybersecurity Analyst](https://www.credly.com/badges/7dc61d6c-9e1f-44b4-add0-1b3a26873812/public_url)**  
   Issued: May 2024
+  ## Google
+- **[Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1BfyJsJEG6PjdR32HL_J1oRmsvaImj1hQ/view?usp=drive_link)**  
+  Issued: June 2024
+
+---
+
+## Cisco
+
 - **[Networking Academy: Network Support and Security](https://www.credly.com/badges/fc5e0998-24d6-49f8-ad08-0bff38de0255/public_url)**  
   Issued: May 2024
 - **[Networking Academy: Network Defense](https://www.credly.com/badges/05154f0e-fe07-44e6-b6eb-d0c0fa5a3b76/public_url)**  
@@ -26,9 +33,7 @@ Below is a comprehensive list of all my certifications, organized from core to s
   
 ---
 
-## Google
-- **[Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1BfyJsJEG6PjdR32HL_J1oRmsvaImj1hQ/view?usp=drive_link)**  
-  Issued: June 2024
+
 
 ---
 
