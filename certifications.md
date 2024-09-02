@@ -2,17 +2,33 @@
 
 Below is a comprehensive list of all my certifications, organized from core to supplementary, with adherence to relevance and industry standards.
 
-
 ## CORE CERTIFICATIONS
-- **[CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/421e0dee-b5ce-4e74-abfa-284c42938a40/public_url)**  
-  Issued: Apr 2023
-- **[CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/dc0e8d15-d18a-476b-9814-da20771cf8dc/public_url)**  
-  Issued: Mar 2023
-- **[Junior Cybersecurity Analyst](https://www.credly.com/badges/7dc61d6c-9e1f-44b4-add0-1b3a26873812/public_url)**  
-  Issued: May 2024
-  ## Google
-- **[Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1BfyJsJEG6PjdR32HL_J1oRmsvaImj1hQ/view?usp=drive_link)**  
-  Issued: June 2024
+
+  #### Cisco
+  - **[CCNAv7: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/421e0dee-b5ce-4e74-abfa-284c42938a40/public_url)** Issued: Apr 2023
+  - **[CCNAv7: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/dc0e8d15-d18a-476b-9814-da20771cf8dc/public_url)** Issued: Mar 2023
+  - **[Junior Cybersecurity Analyst](https://www.credly.com/badges/7dc61d6c-9e1f-44b4-add0-1b3a26873812/public_url)** Issued: May 2024
+
+  #### Google
+  - **[Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1BfyJsJEG6PjdR32HL_J1oRmsvaImj1hQ/view?usp=drive_link)** Issued: June 2024
+
+  #### Microsoft
+  - **[Microsoft Cybersecurity Analyst Professional Certificate](https://drive.google.com/file/d/1aJyZr9vfHpCRsVj7SHhh4NGlCTJ_92V6/view?usp=drive_link)** Issued: Jun 2024
+
+  #### Fortinet
+  - **[Fortinet Certified Cybersecurity Associate (NSE - 1,2,3)](https://drive.google.com/file/d/1yKLGIhgN4ubNKke7a_WIcBAKnu2-s2_X/view?usp=drive_link)** Issued: Feb 2024
+
+  #### Juniper Networks
+  - **[Open Learning: Security Associate (JNCIA-SEC)](https://drive.google.com/file/d/11NfplKX1Q3rL6YFsYuU2HsoDxO7-yc3_/view?usp=drive_link)** Issued: May 2024
+
+  #### Palo Alto Networks
+  - **[Palo Alto Networks Micro-Credential for Virtual Network Security Administrator (PMvNA)](https://www.credly.com/badges/93113800-60a7-4fc0-8287-98bdb84c5a16/public_url)** Issued: Feb 2024
+
+  #### HPE Aruba Networking
+  - **[Aruba Network Security Essentials](https://drive.google.com/file/d/1Fc_2Jk6ITjZlQ4oZHLpCd66dCBPXV15R/view?usp=drive_link)** Issued: May 2024
+
+  #### EC-Council
+  - **[Network Defense Essentials](https://drive.google.com/file/d/1JPGz7zpXlLvD0IuKPcl_D-uHsD_LZqpi/view?usp=drive_link)** Issued: Feb 2024
 
 ---
 
@@ -39,8 +55,6 @@ Below is a comprehensive list of all my certifications, organized from core to s
 
 ## Microsoft
 
-- **[Microsoft Cybersecurity Analyst Professional Certificate](https://drive.google.com/file/d/1aJyZr9vfHpCRsVj7SHhh4NGlCTJ_92V6/view?usp=drive_link)**  
-  Issued: Jun 2024
 
 ---
 
@@ -51,8 +65,6 @@ Below is a comprehensive list of all my certifications, organized from core to s
 ---
 
 ## Fortinet
-- **[Fortinet Certified Cybersecurity Associate (NSE - 1,2,3)](https://drive.google.com/file/d/1yKLGIhgN4ubNKke7a_WIcBAKnu2-s2_X/view?usp=drive_link)**  
-  Issued: Feb 2024
 - **[Fortinet FortiGate 7.4 Operator](https://www.credly.com/badges/ed91c5b1-2eee-462f-a433-5ca02f4a774a/public_url)**  
   Issued: Feb 2024
 - **[Fortinet Threat Landscape 2.0](https://www.credly.com/badges/c85a4d45-470d-4caf-9d40-2f98ba098492/public_url)**  
@@ -127,8 +139,6 @@ Below is a comprehensive list of all my certifications, organized from core to s
 ## HPE Aruba Networking
 - **[Aruba Network Essentials](https://drive.google.com/file/d/18JHuMrUP2pttf2_u7L0N8BrJsWKlzETd/view?usp=drive_link)**  
   Issued: May 2024
-- **[Aruba Network Security Essentials](https://drive.google.com/file/d/1Fc_2Jk6ITjZlQ4oZHLpCd66dCBPXV15R/view?usp=drive_link)**  
-  Issued: May 2024
 - **[Aruba Network Automation Essentials](https://drive.google.com/file/d/1nIAEU9BOMuUarMPZTvYtGabOmlIN-oU4/view?usp=drive_link)**  
   Issued: May 2024
 - **[ACSA Fast Track: Cisco to Aruba Switching](https://drive.google.com/file/d/1L2wwGRKNoGXgCS5lrKcP4CUlIxzNiHvX/view?usp=drive_link)**  
@@ -141,8 +151,7 @@ Below is a comprehensive list of all my certifications, organized from core to s
   Issued: May 2024
 - **[Open Learning: Junos Associate (JNCIA-Junos)](https://drive.google.com/file/d/1zpK66KFHSO9VWls3JlkKxBeYsB5xpOFi/view?usp=drive_link)**  
   Issued: May 2024
-- **[Open Learning: Security Associate (JNCIA-SEC)](https://drive.google.com/file/d/11NfplKX1Q3rL6YFsYuU2HsoDxO7-yc3_/view?usp=drive_link)**  
-  Issued: May 2024
+
 
 ---
 
@@ -150,8 +159,6 @@ Below is a comprehensive list of all my certifications, organized from core to s
 - **[Foundations of Security Operations Centre (SOC)](https://drive.google.com/file/d/1xtEuKWarJHwlVFHHywndn_CJkLXgtIHe/view?usp=drive_link)**  
   Issued: Feb 2024
 - **[Foundations of Cloud Security](https://drive.google.com/file/d/1U5EHDSS5dApO0CleGEhgY0qzBgUMA-R-/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[Palo Alto Networks Micro-Credential for Virtual Network Security Administrator (PMvNA)](https://www.credly.com/badges/93113800-60a7-4fc0-8287-98bdb84c5a16/public_url)**  
   Issued: Feb 2024
 - **[Principles of Secure Access Service Edge (SASE)](https://drive.google.com/file/d/1t50Q9id3QZOByFUDK8xSW0mBhH8aluri/view?usp=drive_link)**  
   Issued: Feb 2024
@@ -187,8 +194,6 @@ Below is a comprehensive list of all my certifications, organized from core to s
 ---
 
 ## EC-Council
-- **[Network Defense Essentials](https://drive.google.com/file/d/1JPGz7zpXlLvD0IuKPcl_D-uHsD_LZqpi/view?usp=drive_link)**  
-  Issued: Feb 2024
 - **[Digital Forensics Essentials](https://drive.google.com/file/d/1EsDFnQysIowDE4_gZG-MJGs5WaFbkXcP/view?usp=drive_link)**  
   Issued: Feb 2024
 - **[Ethical Hacking Essentials](https://drive.google.com/file/d/1PK6wxktU7Hp2DHCAQVkWz8LTRFCpwqz9/view?usp=drive_link)**  
