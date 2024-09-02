@@ -5,6 +5,12 @@ Feel free to reach or check me out through the following platforms:
 - **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/batulaustin)
 
+## Certifications
+
+To view all of my certifications and verify them, please visit the dedicated certifications page:
+
+- [**Certifications**](./certifications.md)
+
 ## Introduction
 
 Intrigued by the digital realm since childhood, I have evolved from a curious tech enthusiast into a dedicated IT graduate. I see the industry as a dynamic landscape where continuous growth and industry standards are crucial. 
