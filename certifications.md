@@ -1,6 +1,6 @@
 # Certifications
 
-Below are a comprehensive list of all my certifications with adherence to relevance and industry standards.
+Below is a comprehensive list of all my certifications, organized from core to supplementary, with adherence to relevance and industry standards.
 
 ---
 
