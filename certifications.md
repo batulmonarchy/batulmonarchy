@@ -11,13 +11,13 @@ Below is a comprehensive list of all my certifications, organized from core to s
 
   #### Google
   - **[Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1BfyJsJEG6PjdR32HL_J1oRmsvaImj1hQ/view?usp=drive_link)** Issued: June 2024
-
+  
   #### Microsoft
   - **[Microsoft Cybersecurity Analyst Professional Certificate](https://drive.google.com/file/d/1aJyZr9vfHpCRsVj7SHhh4NGlCTJ_92V6/view?usp=drive_link)** Issued: Jun 2024
 
   #### Fortinet
   - **[Fortinet Certified Cybersecurity Associate (NSE - 1,2,3)](https://drive.google.com/file/d/1yKLGIhgN4ubNKke7a_WIcBAKnu2-s2_X/view?usp=drive_link)** Issued: Feb 2024
-
+  
   #### Juniper Networks
   - **[Open Learning: Security Associate (JNCIA-SEC)](https://drive.google.com/file/d/11NfplKX1Q3rL6YFsYuU2HsoDxO7-yc3_/view?usp=drive_link)** Issued: May 2024
 
