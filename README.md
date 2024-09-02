@@ -15,10 +15,6 @@ To view all of my certifications and verify them, please visit the dedicated cer
 
 Intrigued by the digital realm since childhood, I have evolved from a curious tech enthusiast into a dedicated IT graduate. I see the industry as a dynamic landscape where continuous growth and industry standards are crucial. 
 
-## Objective
-
-Armed with constant curiosity and sheer will, I am actively pursuing an Associate role in but not limited to: Security, Development, Cloud, Systems, or Networking. I intend to deepen my skillset towards the roadmap of Security and Development to contribute collaborative solutions and protect modern digital society.
-
 ## Resume & CV
 
 To view a detailed overview of my professional journey, you can access my resume and CV through the following links:
