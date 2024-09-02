@@ -3,7 +3,8 @@
 
 ## Introduction
 
-I'm a person that has a wide range of interests, but one in which struck me the most was the digital world. It all started back at 2006, it was just your average day then my uncle brought what was supposed to be a laptop. I was intrigued, it was interest and curiosity at first sight, it was as if I were struck in awe on how on earth can you interact and control the screen to your own accord? I thought screens during those times were just for viewing. Then he showed me this weird digital game that I instantly fell inlove with, you were a fish that had to eat smaller fish than you until you become the biggest of all fishes and finish the level, I got addicted and adapted rapidly in this amazing metal object with electricity. Fast forward here I am now a recent IT Graduate aspiring for an Associate Role in Networking/Security/Cloud/Systems. Additionally, I have deep appreciation for liberal arts ever since a young age, and I've continued to carry this up until present - it has gave me such a broad perspective not only in human experience, but also towards the implications and complexities of living in a digital society. 
+It all started back at 2006, my uncle introduced me to a laptop and a captivating game where you controlled a fish that grew by consuming smaller ones, This initial awe for interactive technology quickly evolved into a deep passion, my love for discovery, tinkering hardware, creating and solving problems grew exponentially. Fast forward, recently graduated with an IT Degree, I am now aspiring for an Associate Role in Networking, Security, Cloud, or Systems. Alongside my chosen profession, I have a lifelong appreciation for liberal arts, which has enriched my understanding of both human experience and the complexities of our digital society.
+
 
 ## Resume & CV
 
