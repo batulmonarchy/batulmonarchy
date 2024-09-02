@@ -5,24 +5,6 @@ Feel free to reach or check me out through the following platforms:
 - **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/batulaustin)
 
-## [**Check all my Certifications here**](./certifications.md)
-<div>
-  <img src="https://img.shields.io/badge/-Cisco-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google" />
-  <img src="https://img.shields.io/badge/-IBM-FFFFFF?&style=for-the-badge&logo=ibm&logoColor=000000" alt="IBM" />
-  <img src="https://img.shields.io/badge/-Fortinet-EE4C2C?&style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
-  <img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
-  <img src="https://img.shields.io/badge/-Hewlett%20Packard%20(Aruba)-008B8B?&style=for-the-badge&logo=hewlett-packard&logoColor=white" alt="Hewlett Packard (Aruba)" />
-  <img src="https://img.shields.io/badge/-Juniper%20Networks-556B2F?&style=for-the-badge&logo=juniper-networks&logoColor=white" alt="Juniper Networks" />
-  <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-FF7F50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto Networks" />
-  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services" />
-  <img src="https://img.shields.io/badge/-EC%20Council-0078D4?&style=for-the-badge&logo=generic&logoColor=white" alt="EC-Council" />
-  <img src="https://img.shields.io/badge/-SkillFront-4682B4?&style=for-the-badge&logo=skillfront&logoColor=white" alt="SkillFront" />
-  <img src="https://img.shields.io/badge/-OPSWAT-800080?&style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT" />
-  <img src="https://img.shields.io/badge/-Maven%20Analytics-DAA520?&style=for-the-badge&logo=maven-analytics&logoColor=white" alt="Maven Analytics" />
-</div>
-
-
 ## Introduction
 
 Intrigued by the digital realm since childhood, I have evolved from a curious tech enthusiast into a dedicated IT graduate. I see the industry as a dynamic landscape where continuous growth and industry standards are crucial. 
@@ -47,6 +29,23 @@ Here are my highlighted projects in which redirects you to the documentation:
 | Router Flashing Enhanced Network Connectivity | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
 | XYZ Biotech Data Breach Industrial Espionage  | <a href="https://drive.google.com/file/d/1H_rzTwJ3_AQbPo1SQc06le8fJmuwCU5g/view?usp=drive_link">Data Breach Case Study|
 | IT Administration, AD, and Attack Simulation  | Active Directory Hacking Project (Ongoing)|
+
+## [**Check all my Certifications here**](./certifications.md)
+<div>
+  <img src="https://img.shields.io/badge/-Cisco-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://img.shields.io/badge/-IBM-FFFFFF?&style=for-the-badge&logo=ibm&logoColor=000000" alt="IBM" />
+  <img src="https://img.shields.io/badge/-Fortinet-EE4C2C?&style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
+  <img src="https://img.shields.io/badge/-Hewlett%20Packard%20(Aruba)-008B8B?&style=for-the-badge&logo=hewlett-packard&logoColor=white" alt="Hewlett Packard (Aruba)" />
+  <img src="https://img.shields.io/badge/-Juniper%20Networks-556B2F?&style=for-the-badge&logo=juniper-networks&logoColor=white" alt="Juniper Networks" />
+  <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-FF7F50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto Networks" />
+  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/-EC%20Council-0078D4?&style=for-the-badge&logo=generic&logoColor=white" alt="EC-Council" />
+  <img src="https://img.shields.io/badge/-SkillFront-4682B4?&style=for-the-badge&logo=skillfront&logoColor=white" alt="SkillFront" />
+  <img src="https://img.shields.io/badge/-OPSWAT-800080?&style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT" />
+  <img src="https://img.shields.io/badge/-Maven%20Analytics-DAA520?&style=for-the-badge&logo=maven-analytics&logoColor=white" alt="Maven Analytics" />
+</div>
 
 ## Tools & Technologies Used
 
