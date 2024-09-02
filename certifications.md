@@ -1,6 +1,3 @@
-# Certifications
-Below is a comprehensive list of all my certifications, organized from core to supplementaries, with adherence to relevance and industry standards.
-
 ## Core Certifications
 
   #### Cisco
