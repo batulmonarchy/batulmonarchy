@@ -1,12 +1,11 @@
 # Certifications
-
 Below is a comprehensive list of all my certifications, organized from core to supplementaries, with adherence to relevance and industry standards.
 
-## CORE CERTIFICATIONS
+## Core Certifications
 
   #### Cisco
-  - **[CCNAv7: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/421e0dee-b5ce-4e74-abfa-284c42938a40/public_url)** Issued: Apr 2023
-  - **[CCNAv7: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/dc0e8d15-d18a-476b-9814-da20771cf8dc/public_url)** Issued: Mar 2023
+  - **[CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/421e0dee-b5ce-4e74-abfa-284c42938a40/public_url)** Issued: Apr 2023
+  - **[CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/dc0e8d15-d18a-476b-9814-da20771cf8dc/public_url)** Issued: Mar 2023
   - **[Junior Cybersecurity Analyst](https://www.credly.com/badges/7dc61d6c-9e1f-44b4-add0-1b3a26873812/public_url)** Issued: May 2024
 
   #### Google
@@ -37,6 +36,8 @@ Below is a comprehensive list of all my certifications, organized from core to s
 
   #### EC-Council
   - **[Network Defense Essentials](https://drive.google.com/file/d/1JPGz7zpXlLvD0IuKPcl_D-uHsD_LZqpi/view?usp=drive_link)** Issued: Feb 2024
+  - **[Digital Forensics Essentials](https://drive.google.com/file/d/1EsDFnQysIowDE4_gZG-MJGs5WaFbkXcP/view?usp=drive_link)** Issued: Feb 2024
+  - **[Ethical Hacking Essentials](https://drive.google.com/file/d/1PK6wxktU7Hp2DHCAQVkWz8LTRFCpwqz9/view?usp=drive_link)** Issued: Feb 2024
   
   #### Qualys
   - **[Qualys Certified Specialist: Endpoint Detection and Response (EDR)](https://drive.google.com/file/d/1PAKhOSkxhHsTJSkZaXb-ID3I6GbV8ig1/view?usp=drive_link)** Issued: May 2024
@@ -45,7 +46,7 @@ Below is a comprehensive list of all my certifications, organized from core to s
 
 ---
 
-## SUBSIDIARIES
+## Subsidiaries
 
 ## Cisco
 - **[Networking Academy: Network Support and Security](https://www.credly.com/badges/fc5e0998-24d6-49f8-ad08-0bff38de0255/public_url)** Issued: May 2024
@@ -79,11 +80,7 @@ Below is a comprehensive list of all my certifications, organized from core to s
 - **[Cybersecurity Threat Vectors and Mitigation](https://drive.google.com/file/d/1J5LOpiCJ0-4l0vNJ7FLSOO8h1tebt2xq/view?usp=drive_link)** Issued: June 2024
 - **[Introduction to Networking and Cloud Computing](https://drive.google.com/file/d/1Mb_aQLJcxjGutJQLOi6VQmndswrYqsYF/view?usp=drive_link)** Issued: June 2024
 - **[Introduction to Computers and Operating Systems and Security](https://drive.google.com/file/d/1BUgeMLCzDDIOA2CbtXEPf4hrZZ9Kbtwm/view?usp=drive_link)** Issued: June 2024
-
-## EC-Council
-- **[Digital Forensics Essentials](https://drive.google.com/file/d/1EsDFnQysIowDE4_gZG-MJGs5WaFbkXcP/view?usp=drive_link)** Issued: Feb 2024
-- **[Ethical Hacking Essentials](https://drive.google.com/file/d/1PK6wxktU7Hp2DHCAQVkWz8LTRFCpwqz9/view?usp=drive_link)** Issued: Feb 2024
-  
+ 
 ## HPE Aruba Networking
 - **[Aruba Network Essentials](https://drive.google.com/file/d/18JHuMrUP2pttf2_u7L0N8BrJsWKlzETd/view?usp=drive_link)** Issued: May 2024
 - **[Aruba Network Automation Essentials](https://drive.google.com/file/d/1nIAEU9BOMuUarMPZTvYtGabOmlIN-oU4/view?usp=drive_link)** Issued: May 2024
