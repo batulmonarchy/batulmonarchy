@@ -1,10 +1,6 @@
 # Hello, I'm Austin! 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com)
 
-Feel free to reach or check me out through the following platforms:
-
-- [**batulaustin.work@gmail.com**](mailto:batulaustin.work@gmail.com)
-- [**My LinkedIn Profile**](https://www.linkedin.com/in/batulaustin)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin)
 
 
 ## Introduction
