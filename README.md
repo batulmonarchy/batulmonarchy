@@ -7,7 +7,7 @@ Feel free to reach or check me out through the following platforms:
 
 ## Certifications
 
-To view all of my certifications and verify them, please visit the dedicated certifications page:
+To view all of my certifications, please visit this dedicated certifications page:
 
 - [**Certifications**](./certifications.md)
 
