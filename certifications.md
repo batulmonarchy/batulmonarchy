@@ -71,50 +71,21 @@ Below is a comprehensive list of all my certifications, organized from core to s
 
 ## Microsoft
   
-- **[Microsoft Learning | SC-200: Microsoft Defender for Endpoint](https://drive.google.com/file/d/1_g0ent0spZp1enDN6jLZis4ITPJpHLPR/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Microsoft Learning | AZ-500: Secure Networking](https://drive.google.com/file/d/11sWmA2b2WAF0DkuOnvg6Is6pTh_IOARc/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Microsoft Learning | AZ-500: Identity & Access Management](https://drive.google.com/file/d/1HeU0Bt64ctyTvGWkSuq9E59lY8EJD9oc/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Microsoft Learning | AZ-500: Secure Computing, Storage, and Databases](https://drive.google.com/file/d/1_g0ent0spZp1enDN6jLZis4ITPJpHLPR/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Microsoft Learning | AZ-500: Security Operations Management](https://drive.google.com/file/d/1e5tvzm_vp8s8TaCAWLrev2bFTtLxe7Tt/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Microsoft Learning | AZ-500: Security Operations Management](https://drive.google.com/file/d/1e5tvzm_vp8s8TaCAWLrev2bFTtLxe7Tt/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Advanced Cybersecurity Concepts and Capstone Project](https://drive.google.com/file/d/1WUip37iaRN0LqNktg2h3YFSexV7TA-_K/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Microsoft SC-900 Exam Preparation and Practice](https://drive.google.com/file/d/1Hqsw1K08-RUBoCrxwVLRquFWYbIhpFId/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Cybersecurity Management and Compliance](https://drive.google.com/file/d/1Ez6Yxnyl_YlJSIEcbKWDNsuCuKRAOMFn/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Cybersecurity Tools and Technologies](https://drive.google.com/file/d/1gHjdc9yo5puDDy4zHiuHOiam8xwBNpOf/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Cybersecurity Solutions and Microsoft Defender](https://drive.google.com/file/d/1cxEDobTcFZd4C-NWOgfeildJxaKP6Rpl/view?usp=drive_link)**  
-  Issued: June 2024
-  
-- **[Cybersecurity Identity and Access Solutions using Azure AD](https://drive.google.com/file/d/1EO7T-tlbVW4tgTgv5UD9PpdkN4HGGQQd/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Cybersecurity Threat Vectors and Mitigation](https://drive.google.com/file/d/1J5LOpiCJ0-4l0vNJ7FLSOO8h1tebt2xq/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Introduction to Networking and Cloud Computing](https://drive.google.com/file/d/1Mb_aQLJcxjGutJQLOi6VQmndswrYqsYF/view?usp=drive_link)**  
-  Issued: June 2024
-
-- **[Introduction to Computers and Operating Systems and Security](https://drive.google.com/file/d/1BUgeMLCzDDIOA2CbtXEPf4hrZZ9Kbtwm/view?usp=drive_link)**  
-  Issued: June 2024
+- **[Microsoft Learning | SC-200: Microsoft Defender for Endpoint](https://drive.google.com/file/d/1_g0ent0spZp1enDN6jLZis4ITPJpHLPR/view?usp=drive_link)** Issued: June 2024
+- **[Microsoft Learning | AZ-500: Secure Networking](https://drive.google.com/file/d/11sWmA2b2WAF0DkuOnvg6Is6pTh_IOARc/view?usp=drive_link)** Issued: June 2024
+- **[Microsoft Learning | AZ-500: Identity & Access Management](https://drive.google.com/file/d/1HeU0Bt64ctyTvGWkSuq9E59lY8EJD9oc/view?usp=drive_link)** Issued: June 2024
+- **[Microsoft Learning | AZ-500: Secure Computing, Storage, and Databases](https://drive.google.com/file/d/1_g0ent0spZp1enDN6jLZis4ITPJpHLPR/view?usp=drive_link)** Issued: June 2024
+- **[Microsoft Learning | AZ-500: Security Operations Management](https://drive.google.com/file/d/1e5tvzm_vp8s8TaCAWLrev2bFTtLxe7Tt/view?usp=drive_link)** Issued: June 2024
+- **[Microsoft Learning | AZ-500: Security Operations Management](https://drive.google.com/file/d/1e5tvzm_vp8s8TaCAWLrev2bFTtLxe7Tt/view?usp=drive_link)** Issued: June 2024
+- **[Advanced Cybersecurity Concepts and Capstone Project](https://drive.google.com/file/d/1WUip37iaRN0LqNktg2h3YFSexV7TA-_K/view?usp=drive_link)** Issued: June 2024
+- **[Microsoft SC-900 Exam Preparation and Practice](https://drive.google.com/file/d/1Hqsw1K08-RUBoCrxwVLRquFWYbIhpFId/view?usp=drive_link)** Issued: June 2024
+- **[Cybersecurity Management and Compliance](https://drive.google.com/file/d/1Ez6Yxnyl_YlJSIEcbKWDNsuCuKRAOMFn/view?usp=drive_link)** Issued: June 2024
+- **[Cybersecurity Tools and Technologies](https://drive.google.com/file/d/1gHjdc9yo5puDDy4zHiuHOiam8xwBNpOf/view?usp=drive_link)** Issued: June 2024
+- **[Cybersecurity Solutions and Microsoft Defender](https://drive.google.com/file/d/1cxEDobTcFZd4C-NWOgfeildJxaKP6Rpl/view?usp=drive_link)** Issued: June 2024
+- **[Cybersecurity Identity and Access Solutions using Azure AD](https://drive.google.com/file/d/1EO7T-tlbVW4tgTgv5UD9PpdkN4HGGQQd/view?usp=drive_link)** Issued: June 2024
+- **[Cybersecurity Threat Vectors and Mitigation](https://drive.google.com/file/d/1J5LOpiCJ0-4l0vNJ7FLSOO8h1tebt2xq/view?usp=drive_link)** Issued: June 2024
+- **[Introduction to Networking and Cloud Computing](https://drive.google.com/file/d/1Mb_aQLJcxjGutJQLOi6VQmndswrYqsYF/view?usp=drive_link)** Issued: June 2024
+- **[Introduction to Computers and Operating Systems and Security](https://drive.google.com/file/d/1BUgeMLCzDDIOA2CbtXEPf4hrZZ9Kbtwm/view?usp=drive_link)** Issued: June 2024
 
 ## EC-Council
 - **[Digital Forensics Essentials](https://drive.google.com/file/d/1EsDFnQysIowDE4_gZG-MJGs5WaFbkXcP/view?usp=drive_link)**  
