@@ -2,8 +2,10 @@
 
 Feel free to reach or check me out through the following platforms:
 
-- **Email:** [batulaustin.work@gmail.com](mailto:batulaustin.work@gmail.com)
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/batulaustin)
+- [**batulaustin.work@gmail.com**](mailto:batulaustin.work@gmail.com)
+- [**My LinkedIn Profile**](https://www.linkedin.com/in/batulaustin)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin)
+
 
 ## Introduction
 
@@ -15,20 +17,6 @@ To view a detailed overview of my professional journey, you can access my resume
 
 - [**My Resume**](https://drive.google.com/file/d/1KxRLqlDq-I5FRXM8uYvX2i78fH0yNWox/view?usp=drive_link)
 - [**My Curriculum Vitae**](https://your-cv-link.com)
-
-## Projects
-
-Here are my highlighted projects in which redirects you to the documentation:
-
-| Description                                   | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link">Elastic SIEM Project</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">SOC Automation Homelab</a>|
-| Secure Network Design Simulation              | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Secure Company Network System|
-| Wireless Mesh Network Design - Capstone       | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Wireless Mesh Network for Surveillance|
-| Router Flashing Enhanced Network Connectivity | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
-| XYZ Biotech Data Breach Industrial Espionage  | <a href="https://drive.google.com/file/d/1H_rzTwJ3_AQbPo1SQc06le8fJmuwCU5g/view?usp=drive_link">Data Breach Case Study|
-| IT Administration, AD, and Attack Simulation  | Active Directory Hacking Project (Ongoing)|
 
 ## [**Check all my Certifications here**](./certifications.md)
 <div>
@@ -46,6 +34,19 @@ Here are my highlighted projects in which redirects you to the documentation:
   <img src="https://img.shields.io/badge/-OPSWAT-800080?&style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT" />
   <img src="https://img.shields.io/badge/-Maven%20Analytics-DAA520?&style=for-the-badge&logo=maven-analytics&logoColor=white" alt="Maven Analytics" />
 </div>
+
+## Projects
+Here are my highlighted projects in which redirects you to the documentation:
+
+| Description                                   | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link">Elastic SIEM Project</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">SOC Automation Homelab</a>|
+| Secure Network Design Simulation              | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Secure Company Network System|
+| Wireless Mesh Network Design - Capstone       | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Wireless Mesh Network for Surveillance|
+| Router Flashing Enhanced Network Connectivity | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
+| XYZ Biotech Data Breach Industrial Espionage  | <a href="https://drive.google.com/file/d/1H_rzTwJ3_AQbPo1SQc06le8fJmuwCU5g/view?usp=drive_link">Data Breach Case Study|
+| IT Administration, AD, and Attack Simulation  | Active Directory Hacking Project (Ongoing)|
 
 ## Tools & Technologies Used
 
