@@ -1,6 +1,6 @@
 # Certifications
 
-Below is a comprehensive list of all my certifications, organized from core to supplementary, with adherence to relevance and industry standards.
+Below is a comprehensive list of all my certifications, organized from core to supplementaries, with adherence to relevance and industry standards.
 
 ## CORE CERTIFICATIONS
 
@@ -44,25 +44,20 @@ Below is a comprehensive list of all my certifications, organized from core to s
   - **[Qualys Certified Specialist: Vulnerability Management Detection and Response (VMDR)](https://drive.google.com/file/d/1Dwze0fljgk-mtO6viOdo9r9lMTZede3U/view?usp=drive_link)** Issued: May 2024
 
 ---
+
 ## SUBSIDIARIES
 
 ## Cisco
-- **[Networking Academy: Network Support and Security](https://www.credly.com/badges/fc5e0998-24d6-49f8-ad08-0bff38de0255/public_url)**  
-  Issued: May 2024
-- **[Networking Academy: Network Defense](https://www.credly.com/badges/05154f0e-fe07-44e6-b6eb-d0c0fa5a3b76/public_url)**  
-  Issued: May 2024
-- **[Networking Academy: Endpoint Security](https://www.credly.com/badges/2b12ff8d-57eb-47bf-8a73-fa50fb21d50c/public_url)**  
-  Issued: May 2024
-- **[Networking Academy: Introduction to Cybersecurity](https://www.credly.com/badges/ba9aab2b-a706-4705-a12b-8b9d89ee5d2c/public_url)**  
-  Issued: May 2024
+- **[Networking Academy: Network Support and Security](https://www.credly.com/badges/fc5e0998-24d6-49f8-ad08-0bff38de0255/public_url)** Issued: May 2024
+- **[Networking Academy: Network Defense](https://www.credly.com/badges/05154f0e-fe07-44e6-b6eb-d0c0fa5a3b76/public_url)** Issued: May 2024
+- **[Networking Academy: Endpoint Security](https://www.credly.com/badges/2b12ff8d-57eb-47bf-8a73-fa50fb21d50c/public_url)** Issued: May 2024
+- **[Networking Academy: Introduction to Cybersecurity](https://www.credly.com/badges/ba9aab2b-a706-4705-a12b-8b9d89ee5d2c/public_url)** Issued: May 2024
 
 ## ISC2
-- **[ISC2 Candidate](https://www.credly.com/badges/e33c7634-ed0a-4ac7-8616-1dd477d8002e/public_url)**
-  Issued: Feb 2024
+- **[ISC2 Candidate](https://www.credly.com/badges/e33c7634-ed0a-4ac7-8616-1dd477d8002e/public_url)*Issued: Feb 2024
 
 ## IBM & ISC2
-- **[IBM & ISC2 Cybersecurity Specialist Professional Certificate (ONGOING)]**  
-  Issued: Expected Oct 2024
+- **[IBM & ISC2 Cybersecurity Specialist Professional Certificate (ONGOING)]** Issued: Expected Oct 2024
 
 ## Fortinet
 - **[Fortinet FortiGate 7.4 Operator](https://www.credly.com/badges/ed91c5b1-2eee-462f-a433-5ca02f4a774a/public_url)** Issued: Feb 2024
@@ -70,15 +65,14 @@ Below is a comprehensive list of all my certifications, organized from core to s
 - **[Technical Introdcution to Cybersecurity 1.0](https://www.credly.com/badges/3d16671a-f2cd-4712-93ac-7c4657ca6a0d/public_url)** Issued: Feb 2024
 
 ## Microsoft
-  
 - **[Microsoft Learning | SC-200: Microsoft Defender for Endpoint](https://drive.google.com/file/d/1_g0ent0spZp1enDN6jLZis4ITPJpHLPR/view?usp=drive_link)** Issued: June 2024
 - **[Microsoft Learning | AZ-500: Secure Networking](https://drive.google.com/file/d/11sWmA2b2WAF0DkuOnvg6Is6pTh_IOARc/view?usp=drive_link)** Issued: June 2024
 - **[Microsoft Learning | AZ-500: Identity & Access Management](https://drive.google.com/file/d/1HeU0Bt64ctyTvGWkSuq9E59lY8EJD9oc/view?usp=drive_link)** Issued: June 2024
 - **[Microsoft Learning | AZ-500: Secure Computing, Storage, and Databases](https://drive.google.com/file/d/1_g0ent0spZp1enDN6jLZis4ITPJpHLPR/view?usp=drive_link)** Issued: June 2024
 - **[Microsoft Learning | AZ-500: Security Operations Management](https://drive.google.com/file/d/1e5tvzm_vp8s8TaCAWLrev2bFTtLxe7Tt/view?usp=drive_link)** Issued: June 2024
 - **[Microsoft Learning | AZ-500: Security Operations Management](https://drive.google.com/file/d/1e5tvzm_vp8s8TaCAWLrev2bFTtLxe7Tt/view?usp=drive_link)** Issued: June 2024
-- **[Advanced Cybersecurity Concepts and Capstone Project](https://drive.google.com/file/d/1WUip37iaRN0LqNktg2h3YFSexV7TA-_K/view?usp=drive_link)** Issued: June 2024
 - **[Microsoft SC-900 Exam Preparation and Practice](https://drive.google.com/file/d/1Hqsw1K08-RUBoCrxwVLRquFWYbIhpFId/view?usp=drive_link)** Issued: June 2024
+- **[Advanced Cybersecurity Concepts and Capstone Project](https://drive.google.com/file/d/1WUip37iaRN0LqNktg2h3YFSexV7TA-_K/view?usp=drive_link)** Issued: June 2024
 - **[Cybersecurity Management and Compliance](https://drive.google.com/file/d/1Ez6Yxnyl_YlJSIEcbKWDNsuCuKRAOMFn/view?usp=drive_link)** Issued: June 2024
 - **[Cybersecurity Tools and Technologies](https://drive.google.com/file/d/1gHjdc9yo5puDDy4zHiuHOiam8xwBNpOf/view?usp=drive_link)** Issued: June 2024
 - **[Cybersecurity Solutions and Microsoft Defender](https://drive.google.com/file/d/1cxEDobTcFZd4C-NWOgfeildJxaKP6Rpl/view?usp=drive_link)** Issued: June 2024
@@ -88,59 +82,33 @@ Below is a comprehensive list of all my certifications, organized from core to s
 - **[Introduction to Computers and Operating Systems and Security](https://drive.google.com/file/d/1BUgeMLCzDDIOA2CbtXEPf4hrZZ9Kbtwm/view?usp=drive_link)** Issued: June 2024
 
 ## EC-Council
-- **[Digital Forensics Essentials](https://drive.google.com/file/d/1EsDFnQysIowDE4_gZG-MJGs5WaFbkXcP/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[Ethical Hacking Essentials](https://drive.google.com/file/d/1PK6wxktU7Hp2DHCAQVkWz8LTRFCpwqz9/view?usp=drive_link)**  
-  Issued: Feb 2024
+- **[Digital Forensics Essentials](https://drive.google.com/file/d/1EsDFnQysIowDE4_gZG-MJGs5WaFbkXcP/view?usp=drive_link)** Issued: Feb 2024
+- **[Ethical Hacking Essentials](https://drive.google.com/file/d/1PK6wxktU7Hp2DHCAQVkWz8LTRFCpwqz9/view?usp=drive_link)** Issued: Feb 2024
   
 ## HPE Aruba Networking
-- **[Aruba Network Essentials](https://drive.google.com/file/d/18JHuMrUP2pttf2_u7L0N8BrJsWKlzETd/view?usp=drive_link)**  
-  Issued: May 2024
-- **[Aruba Network Automation Essentials](https://drive.google.com/file/d/1nIAEU9BOMuUarMPZTvYtGabOmlIN-oU4/view?usp=drive_link)**  
-  Issued: May 2024
-- **[ACSA Fast Track: Cisco to Aruba Switching](https://drive.google.com/file/d/1L2wwGRKNoGXgCS5lrKcP4CUlIxzNiHvX/view?usp=drive_link)**  
-  Issued: May 2024
+- **[Aruba Network Essentials](https://drive.google.com/file/d/18JHuMrUP2pttf2_u7L0N8BrJsWKlzETd/view?usp=drive_link)** Issued: May 2024
+- **[Aruba Network Automation Essentials](https://drive.google.com/file/d/1nIAEU9BOMuUarMPZTvYtGabOmlIN-oU4/view?usp=drive_link)** Issued: May 2024
+- **[ACSA Fast Track: Cisco to Aruba Switching](https://drive.google.com/file/d/1L2wwGRKNoGXgCS5lrKcP4CUlIxzNiHvX/view?usp=drive_link)** Issued: May 2024
 
 ## Palo Alto Networks
-- **[Foundations of Security Operations Centre (SOC)](https://drive.google.com/file/d/1xtEuKWarJHwlVFHHywndn_CJkLXgtIHe/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[Foundations of Cloud Security](https://drive.google.com/file/d/1U5EHDSS5dApO0CleGEhgY0qzBgUMA-R-/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[Principles of Secure Access Service Edge (SASE)](https://drive.google.com/file/d/1t50Q9id3QZOByFUDK8xSW0mBhH8aluri/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[Foundations of Network Security](https://drive.google.com/file/d/1n87Ty3Ih_pvOXXu0Z9YhvJkhGoHWEwdH/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[Foundations of Cloud Security](https://drive.google.com/file/d/1U5EHDSS5dApO0CleGEhgY0qzBgUMA-R-/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[Foundations of Cybersecurity](https://drive.google.com/file/d/1PT6TOPgi6nT4FecqKIIXAGCx6sMBsBIp/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[VM-Series Firewall on AWS](https://drive.google.com/file/d/1tMtN_NPTeF8-rCqBxR_1MZpJlTc18JiJ/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[VM-Series Firewall on GCP](https://drive.google.com/file/d/1iJJ24olsZUvm77iQE3pfRPGrOejIOV2r/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[VM-Series Firewall on Azure](https://drive.google.com/file/d/1F8C3Wtxd767nbZn7_ViN9_EaKQpeS48V/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[VM-Series Firewall on NSX-T](https://drive.google.com/file/d/14EHSAsYWwjMPU28IGa4Glje5KsOBtA8L/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[Cloud NGFW for AWS](https://drive.google.com/file/d/1vFgvBGcEse46cTSzIcarwE1FG9QS0kkl/view?usp=drive_link)**  
-  Issued: Feb 2024
-    
----
+- **[Foundations of Security Operations Centre (SOC)](https://drive.google.com/file/d/1xtEuKWarJHwlVFHHywndn_CJkLXgtIHe/view?usp=drive_link)** Issued: Feb 2024
+- **[Foundations of Cloud Security](https://drive.google.com/file/d/1U5EHDSS5dApO0CleGEhgY0qzBgUMA-R-/view?usp=drive_link)** Issued: Feb 2024
+- **[Principles of Secure Access Service Edge (SASE)](https://drive.google.com/file/d/1t50Q9id3QZOByFUDK8xSW0mBhH8aluri/view?usp=drive_link)** Issued: Feb 2024
+- **[Foundations of Network Security](https://drive.google.com/file/d/1n87Ty3Ih_pvOXXu0Z9YhvJkhGoHWEwdH/view?usp=drive_link)** Issued: Feb 2024
+- **[Foundations of Cloud Security](https://drive.google.com/file/d/1U5EHDSS5dApO0CleGEhgY0qzBgUMA-R-/view?usp=drive_link)** Issued: Feb 2024
+- **[Foundations of Cybersecurity](https://drive.google.com/file/d/1PT6TOPgi6nT4FecqKIIXAGCx6sMBsBIp/view?usp=drive_link)** Issued: Feb 2024
+- **[VM-Series Firewall on AWS](https://drive.google.com/file/d/1tMtN_NPTeF8-rCqBxR_1MZpJlTc18JiJ/view?usp=drive_link)** Issued: Feb 2024
+- **[VM-Series Firewall on GCP](https://drive.google.com/file/d/1iJJ24olsZUvm77iQE3pfRPGrOejIOV2r/view?usp=drive_link)** Issued: Feb 2024
+- **[VM-Series Firewall on Azure](https://drive.google.com/file/d/1F8C3Wtxd767nbZn7_ViN9_EaKQpeS48V/view?usp=drive_link)** Issued: Feb 2024
+- **[VM-Series Firewall on NSX-T](https://drive.google.com/file/d/14EHSAsYWwjMPU28IGa4Glje5KsOBtA8L/view?usp=drive_link)** Issued: Feb 2024
+- **[Cloud NGFW for AWS](https://drive.google.com/file/d/1vFgvBGcEse46cTSzIcarwE1FG9QS0kkl/view?usp=drive_link)** Issued: Feb 2024
 
 ## SkillFront
-- **[ISO/IEC 27001 Information Security Associate](https://drive.google.com/file/d/1KFUgA7unjo3kkwE3y1kplyXD4vrR-awX/view?usp=drive_link)**  
-  Issued: Feb 2024
-- **[ISO 9001 Quality Management Systems Associate](https://drive.google.com/file/d/1H4IhbFAx_OCIvaCs5V9JEfhNVyuE2ZHl/view?usp=drive_link)**  
-  Issued: Feb 2024
-
----
+- **[ISO/IEC 27001 Information Security Associate](https://drive.google.com/file/d/1KFUgA7unjo3kkwE3y1kplyXD4vrR-awX/view?usp=drive_link)** Issued: Feb 2024
+- **[ISO 9001 Quality Management Systems Associate](https://drive.google.com/file/d/1H4IhbFAx_OCIvaCs5V9JEfhNVyuE2ZHl/view?usp=drive_link)** Issued: Feb 2024
 
 ## OPSWAT Academy
-- **[Introduction to Critical Infrastructure Protection (ICIP)](https://www.credly.com/badges/0a8b9b0a-2504-41b5-b6b5-a37c8fc86c58/public_url)**  
-  Issued: Feb 2024
-
----
+- **[Introduction to Critical Infrastructure Protection (ICIP)](https://www.credly.com/badges/0a8b9b0a-2504-41b5-b6b5-a37c8fc86c58/public_url)** Issued: Feb 2024
 
 ## Maven Analytics
-- **[ChatGPT for Data Analytics](https://drive.google.com/file/d/11Rf-wMFI_GBSG5PsWk68QwMyYj9OHsNL/view?usp=drive_link)**  
-  Issued: Feb 2024
+- **[ChatGPT for Data Analytics](https://drive.google.com/file/d/11Rf-wMFI_GBSG5PsWk68QwMyYj9OHsNL/view?usp=drive_link)** Issued: Feb 2024
