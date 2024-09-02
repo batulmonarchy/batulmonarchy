@@ -65,12 +65,9 @@ Below is a comprehensive list of all my certifications, organized from core to s
 ---
 
 ## Fortinet
-- **[Fortinet FortiGate 7.4 Operator](https://www.credly.com/badges/ed91c5b1-2eee-462f-a433-5ca02f4a774a/public_url)**  
-  Issued: Feb 2024
-- **[Fortinet Threat Landscape 2.0](https://www.credly.com/badges/c85a4d45-470d-4caf-9d40-2f98ba098492/public_url)**  
-  Issued: Feb 2024
-- **[Technical Introdcution to Cybersecurity 1.0](https://www.credly.com/badges/3d16671a-f2cd-4712-93ac-7c4657ca6a0d/public_url)**  
-  Issued: Feb 2024
+- **[Fortinet FortiGate 7.4 Operator](https://www.credly.com/badges/ed91c5b1-2eee-462f-a433-5ca02f4a774a/public_url)** Issued: Feb 2024
+- **[Fortinet Threat Landscape 2.0](https://www.credly.com/badges/c85a4d45-470d-4caf-9d40-2f98ba098492/public_url)** Issued: Feb 2024
+- **[Technical Introdcution to Cybersecurity 1.0](https://www.credly.com/badges/3d16671a-f2cd-4712-93ac-7c4657ca6a0d/public_url)** Issued: Feb 2024
 
 ---
 
