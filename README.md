@@ -1,5 +1,5 @@
 # What's up? I'm Austin, Welcome to my Github Portfolio 👋
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com) [![My Resume](https://img.shields.io/badge/-My_Resume-800000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1KxRLqlDq-I5FRXM8uYvX2i78fH0yNWox/view?usp=drive_link) [![My Curriculum Vitae](https://img.shields.io/badge/-Curriculum_Vitae-003366?style=for-the-badge&logo=google-drive&logoColor=white)](https://example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com) [![My Resume](https://img.shields.io/badge/-My_Resume-800000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1KxRLqlDq-I5FRXM8uYvX2i78fH0yNWox/view?usp=drive_link) 
 
 
 ## Introduction
