@@ -5,7 +5,9 @@
 ## Introduction
 It all started back at 2006, my uncle showed me a laptop for the first time that had an interesting game where you controlled a fish that grew by consuming smaller ones, this initial awe for interactive technology quickly evolved into a deep passion where my love for discovery, tinkering hardware, creating and solving problems grew exponentially. Fast forward, recently graduated with an IT Degree, I am now actively pursuing an Associate Role in Networking, Security, Cloud, or Systems. Alongside my chosen profession, I have a lifelong appreciation for liberal arts, which has enriched my understanding of both human experience and the complexities of our digital society.
 
+In 2020, I graduated as the top of my class in Humanities and Social Sciences at high school. I later transitioned to the IT field, despite having no prior knowledge, and earned my college diploma in IT in 2024 while competing semi-professionally nationwide. This reflects my commitment to continuous learning and adaptability.
 
+Outside the career, my lifelong passion for liberal arts—including writing, research, literature, philosophy, psychology, and history—continues to enrich my perspective. This blend of technical expertise and deep appreciation for the humanities has driven my unique approach to overcoming challenges and solving problems.
 
 
 
