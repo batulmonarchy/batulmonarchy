@@ -5,21 +5,24 @@
 It all started back at 2006, my uncle showed me a laptop for the first time that had an interesting game where you controlled a fish that grew by consuming smaller ones, this initial awe for interactive technology quickly evolved into a deep passion where my love for discovery, tinkering hardware, creating and solving problems grew exponentially. Fast forward, recently graduated with an IT Degree, I am now actively pursuing an Associate Role in Networking, Security, Cloud, or Systems. Alongside my chosen profession, I have a lifelong appreciation for liberal arts, which has enriched my understanding of both human experience and the complexities of our digital society.
 
 ## Certifications: [Click here to check it all out](./certifications.md)
+
 <div>
   <img src="https://img.shields.io/badge/-Cisco-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/-Microsoft-5E5E5E?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google" />
   <img src="https://img.shields.io/badge/-IBM-FFFFFF?&style=for-the-badge&logo=ibm&logoColor=000000" alt="IBM" />
   <img src="https://img.shields.io/badge/-Fortinet-EE4C2C?&style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
   <img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
-  <img src="https://img.shields.io/badge/-Hewlett%20Packard%20(Aruba)-008B8B?&style=for-the-badge&logo=hewlett-packard&logoColor=white" alt="Hewlett Packard (Aruba)" />
-  <img src="https://img.shields.io/badge/-Juniper%20Networks-556B2F?&style=for-the-badge&logo=juniper-networks&logoColor=white" alt="Juniper Networks" />
-  <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-FF7F50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto Networks" />
-  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services" />
-  <img src="https://img.shields.io/badge/-EC%20Council-0078D4?&style=for-the-badge&logo=generic&logoColor=white" alt="EC-Council" />
-  <img src="https://img.shields.io/badge/-SkillFront-4682B4?&style=for-the-badge&logo=skillfront&logoColor=white" alt="SkillFront" />
+  <img src="https://img.shields.io/badge/-Hewlett%20Packard%20(Aruba)-008B8B?&style=for-the-badge&logo=hp&logoColor=white" alt="Hewlett Packard (Aruba)" />
+  <img src="https://img.shields.io/badge/-Juniper%20Networks-556B2F?&style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper Networks" />
+  <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-FF7F50?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks" />
+  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/-EC%20Council-0078D4?&style=for-the-badge&logo=eccouncil&logoColor=white" alt="EC-Council" />
+  <img src="https://img.shields.io/badge/-SkillFront-4682B4?&style=for-the-badge&logo=skillshare&logoColor=white" alt="SkillFront" />
   <img src="https://img.shields.io/badge/-OPSWAT-800080?&style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT" />
-  <img src="https://img.shields.io/badge/-Maven%20Analytics-DAA520?&style=for-the-badge&logo=maven-analytics&logoColor=white" alt="Maven Analytics" />
+  <img src="https://img.shields.io/badge/-Maven%20Analytics-DAA520?&style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Maven Analytics" />
 </div>
+
 
 ## Projects
 Here are my highlighted projects in which redirects you to the documentation:
