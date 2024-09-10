@@ -1,5 +1,5 @@
 # Hi there, I'm Austin 👋
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com) [![My Resume](https://drive.google.com/file/d/1OxeV91TASkLsLER-DSNT6giYqmlcGEGW/view?usp=drive_link) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com) [![My Resume](https://img.shields.io/badge/-My%20Resume-000000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OxeV91TASkLsLER-DSNT6giYqmlcGEGW/view?usp=drive_link)
 
 ## Introduction
 It all started back at 2006, my uncle showed me a laptop for the first time that had an interesting game where you controlled a fish that grew by consuming smaller ones, this initial awe for interactive technology quickly evolved into a deep passion where my love for discovery, tinkering hardware, creating and solving problems grew exponentially. Fast forward, recently graduated with an IT Degree, I am now actively pursuing an Associate Role in Networking, Security, Cloud, or Systems. Alongside my chosen profession, I have a lifelong appreciation for liberal arts, which has enriched my understanding of both human experience and the complexities of our digital society.
@@ -36,6 +36,7 @@ Here are my highlighted projects in which redirects you to the documentation:
 | Router Flashing Enhanced Network Connectivity | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
 | XYZ Biotech Data Breach Industrial Espionage  | <a href="https://drive.google.com/file/d/1H_rzTwJ3_AQbPo1SQc06le8fJmuwCU5g/view?usp=drive_link">Data Breach Case Study|
 | IT Administration, AD, and Attack Simulation  | Active Directory Hacking Project (Ongoing)|
+| pfSense, SecOnion for Detection & Response    | Homelab for Detection and Monitoring (Ongoing)|
 
 ## Tools & Technologies Used
 
