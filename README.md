@@ -3,9 +3,7 @@
 
 ## Introduction
 
-I AM NOTHING BEFORE THE LORD. AMEN.
-
-It all started back at 2006, my uncle showed me a laptop for the first time that had an interesting game where you controlled a fish that grew by consuming smaller ones, this initial awe for interactive technology quickly evolved into a deep passion where my love for discovery, tinkering hardware, creating and solving problems grew exponentially. Fast forward, recently graduated with an IT Degree, I am currently employed as a Systems Engineer and is continuously learning in the fields of Networking, Security, Cloud, Development, and AI. Alongside my chosen profession, I have a lifelong appreciation for liberal arts, which has enriched my understanding of both human experience and the complexities of our digital society.
+It all started back at 2006, my uncle showed me a laptop for the first time that had this game called feeding frenzy, you're a fish that grew by consuming smaller ones, this initial awe about interactivity quickly evolved into a passion for discovery, tinkering tech, creating and solving problems. Fast forward, I recently graduated from college and I am currently employed as a Full-time Systems Engineer & Network Engineer while currently pursuing Masteral Studies. Actively building a portfolio specializing in Cloud DevOps, Security, Networks, and Machine Learning. Most importantly, my lifelong passion for the humanities and social sciences has molded my views on technology and life itself.
 
 ## Certifications: [Click here to check it all out](./certifications.md)
 
