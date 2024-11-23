@@ -32,12 +32,11 @@ Here are my highlighted projects in which redirects you to the documentation:
 
 | Description                                   | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link">Elastic SIEM Project</a>|
+| SIEM Implementation and Log Analysis          | <a href="[https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link](https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link)">Elastic SIEM Project</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">SOC Automation Homelab</a>|
 | Secure Network Design Simulation              | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Secure Company Network System|
 | Wireless Mesh Network Design - Capstone       | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Wireless Mesh Network for Surveillance|
 | Router Flashing Enhanced Network Connectivity | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
-| XYZ Biotech Data Breach Industrial Espionage  | <a href="https://drive.google.com/file/d/1H_rzTwJ3_AQbPo1SQc06le8fJmuwCU5g/view?usp=drive_link">Data Breach Case Study|
 | IT Administration, AD, and Attack Simulation  | Active Directory Hacking Project (Ongoing)|
 | pfSense, SecOnion for Detection & Response    | Homelab for Detection and Monitoring (Ongoing)|
 
