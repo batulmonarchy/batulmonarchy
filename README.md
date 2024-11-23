@@ -3,7 +3,7 @@
 
 ## Introduction
 
-It all started back at 2006, my uncle showed me a laptop for the first time that had this game called feeding frenzy, you're a fish that grew by consuming smaller ones, this initial awe about interactivity quickly evolved into a passion for discovery, tinkering tech, creating and solving problems. Fast forward, I recently graduated from college and I am currently employed as a Full-time Systems Engineer & Network Engineer while currently pursuing Masteral Studies. Actively building a portfolio specializing in Cloud DevOps, Security, Networks, and Machine Learning. Most importantly, my lifelong passion for the humanities and social sciences has molded my views on technology and life itself.
+It all started back at 2006, my uncle showed me a laptop for the first time that had this game called feeding frenzy, you're a fish that grew by consuming smaller ones, this initial awe about interactivity quickly evolved into a passion for discovery, tinkering tech, creating and solving problems. Fast forward, I recently graduated from college and I am currently employed as a Full-time Systems Engineer & Network Engineer while currently pursuing Masteral Studies. I am also actively building a portfolio specializing in Cloud DevOps, Security, Networks, and Machine Learning. Most importantly, my lifelong passion for the humanities and social sciences has molded my views on technology and life itself.
 
 ## Certifications: [Click here to check it all out](./certifications.md)
 
