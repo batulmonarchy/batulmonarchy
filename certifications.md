@@ -53,8 +53,8 @@
 
 
 ## IBM & ISC2 (ONGOING)
-- **[ISC2 Candidate](https://www.credly.com/badges/e33c7634-ed0a-4ac7-8616-1dd477d8002e/public_url)* Issued: Feb 2024
-- **[IBM & ISC2 Cybersecurity Specialist Professional Certificate (ONGOING)]** Issued: Expected Oct 2024
+- **[ISC2 Candidate](https://www.credly.com/badges/e33c7634-ed0a-4ac7-8616-1dd477d8002e/public_url)** Issued: Feb 2024
+- **[IBM & ISC2 Cybersecurity Specialist Professional Certificate (ONGOING)]** Issued: Expected Feb 2025
 
 ## Fortinet
 - **[Fortinet FortiGate 7.4 Operator](https://www.credly.com/badges/ed91c5b1-2eee-462f-a433-5ca02f4a774a/public_url)** Issued: Feb 2024
