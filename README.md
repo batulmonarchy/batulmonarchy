@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Back at 2006, my uncle showed me a laptop for the first time that had this game called feeding frenzy, you're a fish that grew by consuming smaller ones, this initial awe about interactivity quickly evolved into a passion for discovery, tinkering tech, creating and solving problems. Fast forward, I am a recent college graduate & current Systems & Networks Engineer & Master's Student. Actively building a portfolio focused on Solutions Architecture encompassing: Systems, DevOps, Security, Networks, Cloud, & AI/ML Integration. My lifelong passion for the humanities & social sciences has molded my views in tech & life itself.
+Back at 2006, my uncle showed me a laptop for the first time that had this game called feeding frenzy, you're a fish that grew by consuming smaller ones, this initial awe about interactivity quickly evolved into a passion for discovery, tinkering tech, creating and solving problems. Fast forward, I am currently a Systems & Networks Engineer & Master's Student in Cybersecurity. Actively building a portfolio focused on Solutions Architecture encompassing: Systems, DevOps, Security, Networks, Cloud, & AI/ML Integration. My lifelong passion for the humanities & social sciences has molded my views in tech & life itself.
 ## Certifications: [Click here to check it all out](./certifications.md)
 
 <div>
