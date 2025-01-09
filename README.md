@@ -1,5 +1,10 @@
 # Hi , I'm Austin 👋  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/batulaustin)        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-plain.svg" width="30" />](mailto:batulaustin.work@gmail.com)
+
+
+
+
+**`Ambitious Vagabond | Radical Scientist`**
 
 I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, and currently pursuing a Master's Degree in Cybersecurity. My career goal is to specialize in Solutions Architecture with a focus on AI/ML Integration, Cloud Security, and DevOps. With a diverse IT background, I bring expertise in client assistance and problem-solving across various scenarios. Despite tech, my lifelong passion for the Humanities and Social Sciences shapes my approach to both tech and life, giving me a unique perspective on how they intersect.
 
@@ -20,7 +25,7 @@ I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, 
 <br>
 
 ## 🚀 Projects Completed
-| | |
+| Project Headline | |
 |----------------------|-------------------|
 | 🔍 **[SIEM Implementation and Log Analysis](https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link)** | 🤖 **[Security Automation with Shuffle SOAR](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** |
 | 🌐 **[Secure Network Design Simulation](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** | 📶 **[Surveillance Wireless Mesh Design](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** |
