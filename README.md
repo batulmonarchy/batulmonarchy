@@ -1,12 +1,8 @@
-# Hi , I'm Austin 👋  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/batulaustin)        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-plain.svg" width="30" />](mailto:batulaustin.work@gmail.com)
+# Hi, I'm Austin 👋  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/batulaustin) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-plain.svg" width="30" />](mailto:batulaustin.work@gmail.com)
 
-
-
-
-**`Ambitious Vagabond | Radical Scientist`**
-
+                                                                                                         
 I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, and currently pursuing a Master's Degree in Cybersecurity. My career goal is to specialize in Solutions Architecture with a focus on AI/ML Integration, Cloud Security, and DevOps. With a diverse IT background, I bring expertise in client assistance and problem-solving across various scenarios. Despite tech, my lifelong passion for the Humanities and Social Sciences shapes my approach to both tech and life, giving me a unique perspective on how they intersect.
+
 
 ## 🎓 [Click Here - All Certifications](./certifications.md)
 
@@ -31,7 +27,7 @@ I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, 
 | 🌐 **[Secure Network Design Simulation](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** | 📶 **[Surveillance Wireless Mesh Design](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** |
 | 📡 **[Router Flashing & Network Coverage](https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link)** | 🔐 **[Active Directory Hacking Project (Ongoing)](https://examplelink.com)** |
 | 🛡️ **[Homelab for Detection and Monitoring (Ongoing)](https://examplelink.com)** |  |
-<br>
+
 
 ## 💼 Tools & Technologies 
 | Category                     | Tools/Technologies Used                             |
