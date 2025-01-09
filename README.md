@@ -2,32 +2,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com)[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/18BAWK6IOcSMfwscEsF9BKVeefqSGb6le/view?usp=sharing)  [![Silicon Barracks](https://img.shields.io/badge/-Silicon%20Barracks-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SiliconBarracks)
 
-I am a Systems and Networks Engineer with extensive experience in T1-T2 Support, and currently pursuing a Master's Degree in Cybersecurity. My career goal is to specialize in Solutions Architecture, with a focus on AI/ML Integration, Cloud Security, and DevOps. My diverse IT background spans on client assistance, and problem-solving across various scenarios. While my career is rooted in technology, my lifelong passion for the Humanities and Social Sciences shapes my approach to both tech and life, giving me a unique perspective on how they intersect.
+I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, and currently pursuing a Master's Degree in Cybersecurity. My career goal is to specialize in Solutions Architecture with a focus on AI/ML Integration, Cloud Security, and DevOps. With a diverse IT background, I bring expertise in client assistance and problem-solving across various scenarios. Despite tech, my lifelong passion for the Humanities and Social Sciences shapes my approach to both tech and life, giving me a unique perspective on how they intersect.
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-## 🎓 Certifications: [Click here to check it all out](./certifications.md)
+#### 🎓 Certifications: [Click here to check it all out](./certifications.md)
 
 <div>
   <img src="https://img.shields.io/badge/-Cisco-007ACC?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft" />
   <img src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" />
-  <img src="https://img.shields.io/badge/-IBM-FFFFFF?style=flat-square&logo=ibm&logoColor=000000" alt="IBM" />
   <img src="https://img.shields.io/badge/-Fortinet-EE4C2C?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet" />
   <img src="https://img.shields.io/badge/-Qualys-DC143C?style=flat-square&logo=qualys&logoColor=white" alt="Qualys" />
   <img src="https://img.shields.io/badge/-Hewlett%20Packard%20(Aruba)-008B8B?style=flat-square&logo=hp&logoColor=white" alt="Hewlett Packard (Aruba)" />
@@ -35,9 +17,6 @@ I am a Systems and Networks Engineer with extensive experience in T1-T2 Support,
   <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-FF7F50?style=flat-square&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks" />
   <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/-EC%20Council-0078D4?style=flat-square&logo=eccouncil&logoColor=white" alt="EC-Council" />
-  <img src="https://img.shields.io/badge/-SkillFront-4682B4?style=flat-square&logo=skillshare&logoColor=white" alt="SkillFront" />
-  <img src="https://img.shields.io/badge/-OPSWAT-800080?style=flat-square&logo=opswat&logoColor=white" alt="OPSWAT" />
-  <img src="https://img.shields.io/badge/-Maven%20Analytics-DAA520?style=flat-square&logo=googleanalytics&logoColor=white" alt="Maven Analytics" />
 </div>
 
 
@@ -55,7 +34,22 @@ Here are some of my projects with the complete documentation:
 | IT Administration, AD, and Attack Simulation 🔐 | Active Directory Hacking Project (Ongoing)|
 | pfSense, SecOnion for Detection & Response 🛡️  | Homelab for Detection and Monitoring (Ongoing)|
 
-
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
 ## 💼 Skills 
 Here are the skills and tools I've worked with, organized by category:
