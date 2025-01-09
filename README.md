@@ -1,10 +1,10 @@
-# Hi there, I'm Austin 👋 
+# Hi there, I'm Austin 👋  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com)[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/18BAWK6IOcSMfwscEsF9BKVeefqSGb6le/view?usp=sharing)  [![Silicon Barracks](https://img.shields.io/badge/-Silicon%20Barracks-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SiliconBarracks)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com) [![Silicon Barracks](https://img.shields.io/badge/-Silicon%20Barracks-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SiliconBarracks) 
 
 I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, and currently pursuing a Master's Degree in Cybersecurity. My career goal is to specialize in Solutions Architecture with a focus on AI/ML Integration, Cloud Security, and DevOps. With a diverse IT background, I bring expertise in client assistance and problem-solving across various scenarios. Despite tech, my lifelong passion for the Humanities and Social Sciences shapes my approach to both tech and life, giving me a unique perspective on how they intersect.
 
-#### 🎓 Certifications: [Click here to check it all out](./certifications.md)
+ ## 🎓 Certifications: [Click here to check it all out](./certifications.md)
 
 <div>
   <img src="https://img.shields.io/badge/-Cisco-007ACC?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
@@ -20,39 +20,22 @@ I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, 
 </div>
 
 
-
 ## 🚀 Projects 
 Here are some of my projects with the complete documentation:
 
-| Description                                   | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis 🔍         | <a href="https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link">Elastic SIEM Project</a>|
-| Security Automation with Shuffle SOAR 🤖        | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">SOC Automation Homelab</a>|
-| Secure Network Design Simulation 🌐             | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Secure Company Network Design|
-| Wireless Mesh Network Design 📶               | <a href="https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link">Wireless Mesh Network for Surveillance|
-| Router Flashing & Network Coverage 📡          | <a href="https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link">DD-WRT for Network Optimization|
-| IT Administration, AD, and Attack Simulation 🔐 | Active Directory Hacking Project (Ongoing)|
-| pfSense, SecOnion for Detection & Response 🛡️  | Homelab for Detection and Monitoring (Ongoing)|
+| Project Headline |  |
+|----------------------|-------------------|
+| 🔍 **[SIEM Implementation and Log Analysis](https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link)** | 🤖 **[Security Automation with Shuffle SOAR](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** |
+| 🌐 **[Secure Network Design Simulation](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** | 📶 **[Surveillance Wireless Mesh Design](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** |
+| 📡 **[Router Flashing & Network Coverage](https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link)** | 🔐 **[Active Directory Hacking Project (Ongoing)](https://examplelink.com)** |
+| 🛡️ **[Homelab for Detection and Monitoring (Ongoing)](https://examplelink.com)** |  |
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
 
-## 💼 Skills 
-Here are the skills and tools I've worked with, organized by category:
+
+
+
+## 💼 Tools & Technologies 
+Here are the tools I've worked with, organized by category:
 
 | Category                     | Tools/Technologies Used                             |
 |------------------------------|-----------------------------------------------------|
@@ -61,6 +44,7 @@ Here are the skills and tools I've worked with, organized by category:
 | 🔒 **Cybersecurity (Blue Teaming)** | ![VirusTotal](https://img.shields.io/badge/VirusTotal-005FED?style=flat-square&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D7?style=flat-square&logo=Microsoft&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elastic&logoColor=white) ![TheHive](https://img.shields.io/badge/TheHive-4D4D4D?style=flat-square&logo=TheHive&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=Splunk&logoColor=white) ![Security Onion](https://img.shields.io/badge/Security_Onion-006400?style=flat-square&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-2C2F36?style=flat-square&logo=Wazuh&logoColor=white) |
 | ☁️ **Cloud Computing**          | ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white) ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=Elastic&logoColor=white) |
 | 💻 **Coding & Scripting**        | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) |
-| 🖧 **Virtualization**           | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white) ![eXSI Host](https://img.shields.io/badge/eXSI_Host-FF9900?style=flat-square&logo=VMware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-555555?style=flat-square&logo=VirtualBox&logoColor=white) |
+| 🖧 **Virtualization**           | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white) ![eXSI Host](https://img.shields.io/badge/eXSI_Host-FF9900?style=flat-square&logo=VMware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-555555?style=flat-square&logo=VirtualBox&logoColor=white) ![vSphere](https://img.shields.io/badge/vSphere-1F4B6E?style=flat-square&logo=VMware&logoColor=white) |
 | 🔧 **Remote Access**           | ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE0?style=flat-square&logo=TeamViewer&logoColor=white) ![AnyDesk](https://img.shields.io/badge/AnyDesk-D55E00?style=flat-square&logo=AnyDesk&logoColor=white) ![ConnectWise](https://img.shields.io/badge/ConnectWise-2D66A0?style=flat-square&logoColor=white) ![LogMeIn](https://img.shields.io/badge/LogMeIn-00A1E0?style=flat-square&logoColor=white) ![Splashtop](https://img.shields.io/badge/Splashtop-00C5FF?style=flat-square&logoColor=white) |
 | 📚 **Ticketing & Documentation**       | ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=Zendesk&logoColor=white) ![Freshdesk](https://img.shields.io/badge/Freshdesk-78C445?style=flat-square&logo=Freshdesk&logoColor=white) ![Autotask](https://img.shields.io/badge/Autotask-FF5733?style=flat-square&logoColor=white) ![IT Glue](https://img.shields.io/badge/IT_Glue-0085CA?style=flat-square&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=Microsoft-SharePoint&logoColor=white) |
+
