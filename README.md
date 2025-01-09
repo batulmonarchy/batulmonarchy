@@ -1,10 +1,9 @@
-# Hi there, I'm Austin 👋  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com) [![Silicon Barracks](https://img.shields.io/badge/-Silicon%20Barracks-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SiliconBarracks) 
+# Hi , I'm Austin 👋  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batulaustin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batulaustin.work@gmail.com)
 
 I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, and currently pursuing a Master's Degree in Cybersecurity. My career goal is to specialize in Solutions Architecture with a focus on AI/ML Integration, Cloud Security, and DevOps. With a diverse IT background, I bring expertise in client assistance and problem-solving across various scenarios. Despite tech, my lifelong passion for the Humanities and Social Sciences shapes my approach to both tech and life, giving me a unique perspective on how they intersect.
 
- ## 🎓 Certifications: [Click here to check it all out](./certifications.md)
+## 🎓 [Click Here - All Certifications](./certifications.md)
 
 <div>
   <img src="https://img.shields.io/badge/-Cisco-007ACC?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
@@ -18,25 +17,18 @@ I'm a Systems and Networks Engineer with extensive experience in T1-T2 Support, 
   <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/-EC%20Council-0078D4?style=flat-square&logo=eccouncil&logoColor=white" alt="EC-Council" />
 </div>
+<br>
 
-
-## 🚀 Projects 
-Here are some of my projects with the complete documentation:
-
-| Project Headline |  |
+## 🚀 Projects Completed
+| | |
 |----------------------|-------------------|
 | 🔍 **[SIEM Implementation and Log Analysis](https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link)** | 🤖 **[Security Automation with Shuffle SOAR](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** |
 | 🌐 **[Secure Network Design Simulation](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** | 📶 **[Surveillance Wireless Mesh Design](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** |
 | 📡 **[Router Flashing & Network Coverage](https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link)** | 🔐 **[Active Directory Hacking Project (Ongoing)](https://examplelink.com)** |
 | 🛡️ **[Homelab for Detection and Monitoring (Ongoing)](https://examplelink.com)** |  |
-
-
-
-
+<br>
 
 ## 💼 Tools & Technologies 
-Here are the tools I've worked with, organized by category:
-
 | Category                     | Tools/Technologies Used                             |
 |------------------------------|-----------------------------------------------------|
 | 🌐 **Networking**               | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-003366?style=flat-square&logo=pfSense&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-F6A81E?style=flat-square&logo=Cisco&logoColor=white) ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat-square&logo=Huawei&logoColor=white) ![DD-WRT](https://img.shields.io/badge/DD--WRT-800080?style=flat-square&logoColor=white) ![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-6CAE00?style=flat-square&logo=Cisco&logoColor=white) ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-FF4500?style=flat-square&logo=Packet-Tracer&logoColor=white) |
