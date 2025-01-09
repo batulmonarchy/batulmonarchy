@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I'm a Systems and Networks Engineer that has extensive experience in T1/T2 Support. I'm also currently pursuing a Master's Degree in Cybersecurity with the intention of directing my career towards Solutions Architecture specializing in AI/ML Integration, Cloud Security, and DevOps. My experiences has given me a broad understanding in IT as a whole - from altering code scripts, assisting clients, and showing capability in many scenarios. Despite tech, my lifelong passion has always been for the Humanities and Social Sciences-which has influenced my views in tech and life itself.
+I'm a Systems and Networks Engineer that has extensive experience in T1/T2 Support. I'm also currently pursuing a Master's Degree in Cybersecurity with the intention of directing my career towards Solutions Architecture specializing in AI/ML Integration, Cloud Security, and DevOps. My experiences has given me a broad understanding in IT as a whole - from altering code scripts, assisting clients, and showing capability in given scenarios. Despite tech, my lifelong passion has always been for the Humanities and Social Sciences-which has influenced my views in tech and life itself.
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
