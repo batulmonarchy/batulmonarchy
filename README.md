@@ -4,7 +4,7 @@
 I'm a Systems & Networks Engineer seasoned in T1-T2 Support, I'm also pursuing a Master's Degree in Cybersecurity. My goal is to specialize in Solutions Architecture focusing on AI/ML Integration, Cloud Security, & DevOps. With a diverse IT background, I bring expertise in client assistance & problem-solving across various scenarios. Aside tech, my lifelong passion for the Humanities & Social Sciences has molded my views to both tech & life itself.
 
 
-## 🎓 [**Click Here - All Certifications**](./certifications.md)
+## 📃 [**CLICK HERE - ALL CERTIFICATIONS**](./certifications.md)
 
 <div>
   <img src="https://img.shields.io/badge/-Cisco-007ACC?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
