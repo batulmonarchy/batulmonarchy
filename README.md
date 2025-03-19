@@ -27,7 +27,7 @@ I'm a Cloud Support Engineer and former Systems & Networks Engineer seasoned in 
 | 🔍 **[SIEM Implementation and Log Analysis](https://drive.google.com/file/d/1ziURe_SCbi__GpKA-vjxUn5jgcDEWbtY/view?usp=drive_link)** | 🤖 **[Security Automation with Shuffle SOAR](https://drive.google.com/file/d/1KOf7CYwnspdKiU71QHgk-p4EGIdUzkW4/view?usp=drive_link)** |
 | 🌐 **[Secure Network Design Simulation](https://drive.google.com/file/d/1rInuTWxb0ejad5s25-lQCsNdJ5vLpM-y/view?usp=drive_link)** | 📶 **[Surveillance Wireless Mesh Design](https://drive.google.com/file/d/1js_9NwPtL6b7v7Dd408t622WRH1DXz6Q/view?usp=drive_link)** |
 | 📡 **[Router Flashing & Network Coverage](https://drive.google.com/file/d/1aeHzdhhH6zieWcedLwQImKf81GzQqCdn/view?usp=drive_link)** | 🔐 **[Active Directory Hacking Project (Ongoing)](https://examplelink.com)** |
-| 🛡️ **[Homelab for Detection and Monitoring (Ongoing)](https://examplelink.com)** |  |
+| 🛡️ **[Homelab for Detection and Monitoring (Ongoing)](https://examplelink.com)** |  | 🎯 **[Metasploit Windows Attack Simulation](https://drive.google.com/drive/u/0/folders/1dO1d1eCUB-D3cgasoruD5ENfyDhUw7_k)** |
 
 
 ## 💼 Tools & Technologies 
