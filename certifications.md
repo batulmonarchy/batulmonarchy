@@ -5,6 +5,9 @@
   - **[CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/dc0e8d15-d18a-476b-9814-da20771cf8dc/public_url)** Issued: Mar 2023
   - **[Junior Cybersecurity Analyst](https://www.credly.com/badges/7dc61d6c-9e1f-44b4-add0-1b3a26873812/public_url)** Issued: May 2024
 
+  #### The SecOps Group
+  - **[The SecOps Group Certification](https://drive.google.com/file/d/1b7y4hP8j2zOj2z8T5hJLkzLRKlv46zvn/view?usp=sharing)** Issued: March 2025
+
   #### Google
   - **[Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1BfyJsJEG6PjdR32HL_J1oRmsvaImj1hQ/view?usp=drive_link)** Issued: June 2024
   
