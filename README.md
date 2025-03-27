@@ -18,6 +18,7 @@ I'm a Cloud Support Engineer and former Systems & Networks Engineer seasoned in 
   <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-FF7F50?style=flat-square&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks" />
   <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/-EC%20Council-0078D4?style=flat-square&logo=eccouncil&logoColor=white" alt="EC-Council" />
+  <img src="https://img.shields.io/badge/-The%20SecOps%20Group-FF7F50?style=flat-square&logo=security&logoColor=white" alt="The SecOps Group" />
 </div>
 <br>
 
