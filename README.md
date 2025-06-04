@@ -1,7 +1,6 @@
 # Hi, I'm Austin 👋  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />](https://www.linkedin.com/in/batulaustin)&nbsp; [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" />](mailto:batulaustin.work@gmail.com)&nbsp; 
 
-                                                                                                         
-I'm a Cloud Support Engineer and former Systems & Networks Engineer seasoned in T1-T2 Support, I'm also pursuing my Master's Degree in Cybersecurity with the intention of furthering my education towards the intricacies of modern digital society and protecting people's lives, even saving them - the iceberg of binaries and life... My goal is to specialize in Solutions Architecture focusing on Cloud, DevOps, AI/ML Integration, and Cybersecurity. Aside tech, my lifelong passion for the Humanities & Social Sciences has molded my views to both tech & life itself. I live life, laugh, and give my all.
+I'm Austin — an IT professional exploring Cybersecurity, Cloud, DevOps, and AI/ML with a strong foundation in systems, networks, and development. Currently building in the FinTech and Solutions Architecture realm, shaped by a lifelong interest in tech, humanities, and how it all connects.
 
 
 
