@@ -1,7 +1,6 @@
 # Hi, I'm Austin 👋  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />](https://www.linkedin.com/in/batulaustin)&nbsp; [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" />](mailto:batulaustin.work@gmail.com)&nbsp; 
 
-I'm Austin — an IT professional exploring Cybersecurity, Cloud, DevOps, and AI/ML with a strong foundation in systems, networks, and development. Currently building in the FinTech and Solutions Architecture realm, shaped by a lifelong interest in tech, humanities, and how it all connects.
-
+this is outdated, go here instead: https://batulmonarchy.github.io/
 
 
 ## 📃 [**CLICK HERE - ALL CERTIFICATIONS**](./certifications.md)
